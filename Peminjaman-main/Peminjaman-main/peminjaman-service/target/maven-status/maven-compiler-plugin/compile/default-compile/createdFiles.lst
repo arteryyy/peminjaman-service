@@ -1,0 +1,7 @@
+com\taufiq\peminjaman\service\PeminjamanService.class
+com\taufiq\peminjaman\repository\PeminjamanRepository.class
+com\taufiq\peminjaman\VO\Anggota.class
+com\taufiq\peminjaman\PeminjamanServiceApplication.class
+com\taufiq\peminjaman\VO\ResponseTemplateVO.class
+com\taufiq\peminjaman\controller\PeminjamanController.class
+com\taufiq\peminjaman\entity\Peminjaman.class
